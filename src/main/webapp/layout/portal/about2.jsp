@@ -1,0 +1,2 @@
+<%@ page language="java" pageEncoding="UTF-8"%><!--首页专项经费管理严格化 -->
+<b><font size="5" face="仿宋"  color=#006699>&nbsp;&nbsp;&nbsp;&nbsp;按照相关部门经费使用和管理规定，提供项目、课题、研究任务(子课题)经费收支管理。使项目立项及管理部门、(子)课题承担部门及负责人对其经费收支使用详细全面掌握。</font></b>

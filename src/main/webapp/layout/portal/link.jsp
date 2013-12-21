@@ -1,0 +1,2 @@
+<%@ page language="java" pageEncoding="UTF-8"%><!--首页项目管理专业化  -->
+<b><font size="5" face="仿宋"  color=#006699>&nbsp;&nbsp;&nbsp;&nbsp;为管理者提供清晰、明确、方便、易懂、安全、可靠的项目管理功能，使管理者对项目进度、项目动态全面掌握，同时对项目相关信息进行实施发布。</font></b>
